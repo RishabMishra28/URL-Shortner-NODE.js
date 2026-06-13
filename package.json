@@ -1,0 +1,21 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishabMishra28/URL-Shortner-NODE.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/RishabMishra28/URL-Shortner-NODE.js/issues"
+  },
+  "homepage": "https://github.com/RishabMishra28/URL-Shortner-NODE.js#readme"
+}
